@@ -1,0 +1,83 @@
+body{
+  background-color:#def5e5;
+}
+.location{
+  border-radius: 12px;
+  border-style: solid;
+  background-color: #44b180;
+  border-color: white;
+  color: white;
+  width: 100%;
+}
+
+.addres{
+  width: 90%;
+}
+.geoicon{
+  color: white;
+  font-size: 20px;
+}
+.bellicon{
+  color: white;
+  font-size: 20px;
+}
+.carticon{
+  color: white;
+  font-size: 20px;
+}
+.searchbar{
+  border-radius: 9px;
+  border-style: none;
+  color:gray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.container{
+  margin-top: 40px;
+}
+.ser{
+  color: #44b180;
+  font-size: 10px;
+}
+.card{
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.heading{
+  background-color: #aae2ba;
+  color:#44b180;
+  margin: 10px 10px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+.bottom{
+  position: sticky;
+  height: 80px;
+  background-color: White;
+  color: #44b180;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.brand{
+  width: 40px;
+}
+.subheading{
+  color: gray;
+}
+hr{
+  width: 70%
+}
+
+.nothing{
+  width: 80%;
+  margin-top: 5px;
+}
+.pps{
+  font-size: 10px;
+}
